@@ -36,6 +36,11 @@ list3
 list1,list2,list3
 ```
 
+## ☁️ Run on Google Colab
+You can also run this script on Google Colab using the following link:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QGNVnaRzXVDsJRnLmqNTyCOWFZ6-9RA0?usp=sharing)
+
 ## 📜 License
 This project is licensed under the MIT License. Feel free to use and contribute.
 
